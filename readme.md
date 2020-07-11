@@ -1,3 +1,7 @@
+# Intro
+This project is data analysis competition hosted by the Korea Meteorological Administration and Hyundai Steel.
+We make a dew condensation prediction model. Then, create a monitoring website with Django.
+
 # 0. start
 Python version = 3.7.8
 
